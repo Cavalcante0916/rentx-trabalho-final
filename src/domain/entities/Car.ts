@@ -1,1 +1,1 @@
- \\ inicio entidade car 
+ \\ inicio entidade car.
